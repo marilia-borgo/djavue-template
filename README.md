@@ -1,6 +1,5 @@
 # d-jà vue
-
-Being a web-developer for 18 years, I have found that by doing things in a certain way, there will be a higher chance that:
+I have found that by doing things in a certain way, there will be a higher chance that:
 
 - I and other team members will be more productive
 - clients will be happier
@@ -10,13 +9,6 @@ This is a vue-cli template for a **full-stack**, **production-ready** web applic
 
 It helps me (and it may help you) start new projects that already have a useful set of good practices built into them.
 
-### Você fala português?
-
-Veja o video explicando mais sobre este template ;) --> https://youtu.be/It8Zx0cJYyg
-
-Vc tb pode comprar o curso completo\* sobre o djavue e aprender uma PORRADA de coisa sobre desenvolvimento web --> https://evolutio.io/curso/djavue
-
-\* O curso do djavue está em construção. Comprando agora vc paga mais barato e continua tendo acesso ao conteúdo que ainda vai ser produzido ;-)
 
 ### Usage
 
